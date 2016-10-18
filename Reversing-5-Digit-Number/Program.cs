@@ -13,6 +13,10 @@ namespace Reversing_5_Digit_Number
             Reverse5DigitNumber();
         }
 
+        /// <summary>
+        /// Write a program to reverse a 5 digit number input by the user
+        /// </summary>
+
         static void Reverse5DigitNumber()
         {
             int number = 0;
