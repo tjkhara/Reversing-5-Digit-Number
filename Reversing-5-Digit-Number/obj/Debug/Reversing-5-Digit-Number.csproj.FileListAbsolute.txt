@@ -1,0 +1,5 @@
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\Reversing-5-Digit-Number\Reversing-5-Digit-Number\bin\Debug\Reversing-5-Digit-Number.exe.config
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\Reversing-5-Digit-Number\Reversing-5-Digit-Number\bin\Debug\Reversing-5-Digit-Number.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\Reversing-5-Digit-Number\Reversing-5-Digit-Number\bin\Debug\Reversing-5-Digit-Number.pdb
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\Reversing-5-Digit-Number\Reversing-5-Digit-Number\obj\Debug\Reversing-5-Digit-Number.exe
+C:\Users\Tajeshwar Khara\Desktop\www\Visual Studio\Reversing-5-Digit-Number\Reversing-5-Digit-Number\obj\Debug\Reversing-5-Digit-Number.pdb
